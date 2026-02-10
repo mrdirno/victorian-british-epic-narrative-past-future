@@ -1,0 +1,77 @@
+{
+  "book_id": "victorian-british-epic-narrative-past-future",
+  "title": "The Resonant Chronometer",
+  "tagline": "An engineer and an archivist must navigate the hidden frequencies of Victorian London, where the past's forgotten pressures threaten to silence the future.",
+  "target_words": 74193,
+  "actual_words": 74193,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Technological Dominion vs. Nature",
+    "The Weight of History",
+    "The Machinery of Time",
+    "Perception and Hidden Reality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Grey, Breathing Beast",
+      "words": 6182
+    },
+    {
+      "ch": 2,
+      "title": "A Saloon of Latent Memory",
+      "words": 6182
+    },
+    {
+      "ch": 3,
+      "title": "The Arrhythmic Heart",
+      "words": 6182
+    },
+    {
+      "ch": 4,
+      "title": "A Tomb of Forgotten Pressures",
+      "words": 6182
+    },
+    {
+      "ch": 5,
+      "title": "The Museum of Silence",
+      "words": 6182
+    },
+    {
+      "ch": 6,
+      "title": "The Inside of a Wound",
+      "words": 6182
+    },
+    {
+      "ch": 7,
+      "title": "A Crude, Ill-Fitting Replica",
+      "words": 6182
+    },
+    {
+      "ch": 8,
+      "title": "Walking Into One's Own Ghost",
+      "words": 6182
+    },
+    {
+      "ch": 9,
+      "title": "A Viscous Medium of Clamour",
+      "words": 6182
+    },
+    {
+      "ch": 10,
+      "title": "A Man Become a Chronometer",
+      "words": 6182
+    },
+    {
+      "ch": 11,
+      "title": "A Study in Calibrated Silence",
+      "words": 6182
+    },
+    {
+      "ch": 12,
+      "title": "The River's Final Inhalation",
+      "words": 6182
+    }
+  ]
+}
